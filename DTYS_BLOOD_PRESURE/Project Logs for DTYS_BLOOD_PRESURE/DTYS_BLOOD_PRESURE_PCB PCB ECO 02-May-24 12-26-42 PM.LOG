@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Vin Pin=POWER-3
+Added Pin To Net: NetName=NetF0_1 Pin=F0-1
+Added Pin To Net: NetName=NetF0_1 Pin=POWER-1
+Added Pin To Net: NetName=NetF0_1 Pin=POWER-3
+Added Net: Name=NetF0_1
+Added Room: Name=DTYS_BLOOD_PRESURE_Sch

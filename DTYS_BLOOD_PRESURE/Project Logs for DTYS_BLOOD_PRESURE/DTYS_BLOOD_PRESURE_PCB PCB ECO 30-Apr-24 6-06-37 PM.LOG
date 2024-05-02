@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=GND Pin=C05-1
+Removed Pin From Net: NetName=+5V Pin=C05-2
+Removed Pin From Net: NetName=-5 Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=buzzer Pin=R17-1
+Removed Pin From Net: NetName=val Pin=R19-1
+Removed Pin From Net: NetName=bom Pin=R21-1
+Added Component: Designator=PS0(CONV_RB-0505D)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RB-0505D/Recom+Power/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Recom Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RB-0505D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/RB-0505D/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RB-0505D/Recom+Power/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=C05-1
+Added Pin To Net: NetName=GND Pin=C05-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=-5 Pin=C13-2
+Added Pin To Net: NetName=+5V Pin=PS0-1
+Added Pin To Net: NetName=GND Pin=PS0-2
+Added Pin To Net: NetName=-5 Pin=PS0-4
+Added Pin To Net: NetName=GND Pin=PS0-5
+Added Pin To Net: NetName=+5 Pin=PS0-6
+Added Pin To Net: NetName=NetQ1_1 Pin=R17-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R19-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R21-1
+Added Member To Class: ClassName=DTYS_BLOOD_PRESURE_Sch Member=Component PS0 RB-0505D

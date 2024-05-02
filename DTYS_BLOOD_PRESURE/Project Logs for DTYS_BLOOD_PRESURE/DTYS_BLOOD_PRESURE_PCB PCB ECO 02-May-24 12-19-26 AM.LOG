@@ -1,0 +1,11 @@
+Added Component: Designator=C351(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C352(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADC1 Pin=C351-1
+Added Pin To Net: NetName=GND Pin=C351-2
+Added Pin To Net: NetName=ADC1 Pin=C352-1
+Added Pin To Net: NetName=GND Pin=C352-2
+Added Member To Class: ClassName=DTYS_BLOOD_PRESURE_Sch Member=Component C351 Cap Non-Pol SMD
+Added Member To Class: ClassName=DTYS_BLOOD_PRESURE_Sch Member=Component C352 Cap Non-Pol SMD
+Added Room: Name=DTYS_BLOOD_PRESURE_Sch

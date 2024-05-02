@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=G1 Pin=VR2-1
+Removed Pin From Net: NetName=G1 Pin=VR2-2
+Removed Pin From Net: NetName=G2 Pin=VR2-3
+Added Pin To Net: NetName=G2 Pin=VR2-1
+Added Pin To Net: NetName=G2 Pin=VR2-2
+Added Pin To Net: NetName=G1 Pin=VR2-3
+Added Room: Name=DTYS_BLOOD_PRESURE_Sch

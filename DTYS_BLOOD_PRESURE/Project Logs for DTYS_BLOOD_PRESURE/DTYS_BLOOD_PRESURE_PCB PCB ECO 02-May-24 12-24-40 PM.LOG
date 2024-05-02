@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=GND Pin=C00-2
+Removed Pin From Net: NetName=GND Pin=C01-1
+Removed Pin From Net: NetName=GND Pin=C02-1
+Removed Pin From Net: NetName=GND Pin=C03-1
+Removed Pin From Net: NetName=GND Pin=C04-1
+Removed Pin From Net: NetName=Vin Pin=POWER-1
+Removed Pin From Net: NetName=Vin Pin=POWER-3
+Change Component Designator: OldDesignator=D? NewDesignator=LED1
+Added Component: Designator=D0(SS34)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-214-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DO-214-AA/SMB; 2 C-Bend Leads; Body 5.3 x 3.6 mm, inc. leads (LxW)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SMB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=F0(FUSE SMD)
+Added Component: Designator=SW_P(SW_2ARS_TH)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "471005264153"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "471005264153"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vin Pin=D0-2
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetLED1_1
+Added Pin To Net: NetName=NetC00_2 Pin=C00-2
+Added Pin To Net: NetName=NetC00_2 Pin=C01-1
+Added Pin To Net: NetName=NetC00_2 Pin=C02-1
+Added Pin To Net: NetName=NetC00_2 Pin=C03-1
+Added Pin To Net: NetName=NetC00_2 Pin=C04-1
+Added Net: Name=NetC00_2
+Added Pin To Net: NetName=NetD0_1 Pin=D0-1
+Added Pin To Net: NetName=NetD0_1 Pin=F0-2
+Added Net: Name=NetD0_1
+Added Pin To Net: NetName=NetPOWER_1 Pin=POWER-1
+Added Pin To Net: NetName=NetPOWER_1 Pin=SW_P-1
+Added Net: Name=NetPOWER_1
+Added Member To Class: ClassName=DTYS_BLOOD_PRESURE_Sch Member=Component D0 D Schottky
+Added Member To Class: ClassName=DTYS_BLOOD_PRESURE_Sch Member=Component F0 Fuse
+Added Member To Class: ClassName=DTYS_BLOOD_PRESURE_Sch Member=Component SW_P SWITCH 10A-2PIN
+Added Room: Name=DTYS_BLOOD_PRESURE_Sch

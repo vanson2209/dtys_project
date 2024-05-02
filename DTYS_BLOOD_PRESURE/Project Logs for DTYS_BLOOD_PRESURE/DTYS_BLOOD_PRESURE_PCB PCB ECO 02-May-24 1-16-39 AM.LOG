@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=MISO Pin=Upload Code-2
+Removed Pin From Net: NetName=SCK Pin=Upload Code-3
+Change Component Designator: OldDesignator=1 NewDesignator=H1
+Added Pin To Net: NetName=SCK Pin=Upload Code-2
+Added Pin To Net: NetName=MISO Pin=Upload Code-3
+Change Net Name : Old Net Name=Net1_2 New Net Name=NetD3_1
+Added Room: Name=DTYS_BLOOD_PRESURE_Sch

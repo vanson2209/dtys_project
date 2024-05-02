@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetIC1_1 Pin=IC1-1
+Removed Pin From Net: NetName=NetC32_2 Pin=IC1-3
+Removed Pin From Net: NetName=NetC34_2 Pin=IC1-5
+Removed Pin From Net: NetName=NetC33_2 Pin=IC1-7
+Removed Pin From Net: NetName=NetIC1_2 Pin=R06-1
+Removed Pin From Net: NetName=NetIC1_2 Pin=R07-1
+Removed Pin From Net: NetName=NetIC1_6 Pin=R10-1
+Removed Pin From Net: NetName=NetIC1_6 Pin=R11-1
+Added Pin To Net: NetName=NetC33_2 Pin=IC1-1
+Added Pin To Net: NetName=NetC34_2 Pin=IC1-3
+Added Pin To Net: NetName=NetC32_2 Pin=IC1-5
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-7
+Added Pin To Net: NetName=NetIC1_6 Pin=R06-1
+Added Pin To Net: NetName=NetIC1_6 Pin=R07-1
+Added Pin To Net: NetName=NetIC1_2 Pin=R10-1
+Added Pin To Net: NetName=NetIC1_2 Pin=R11-1
+Change Net Name : Old Net Name=NetIC1_1 New Net Name=NetIC1_7
+Added Room: Name=DTYS_BLOOD_PRESURE_Sch
