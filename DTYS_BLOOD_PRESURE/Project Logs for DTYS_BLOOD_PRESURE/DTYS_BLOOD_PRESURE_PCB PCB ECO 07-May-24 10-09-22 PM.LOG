@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SW2 Pin=U5-1
+Removed Pin From Net: NetName=SW3 Pin=U5-2
+Removed Pin From Net: NetName=SW1 Pin=U5-32
+Added Room: Name=DTYS_BLOOD_PRESURE_Sch

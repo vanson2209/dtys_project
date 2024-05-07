@@ -1,0 +1,5 @@
+Change Component Comment : Designator=LCD Old Comment=1602 New Comment=Display
+Change Component Library : Designator=LCD Old Library=22022023_Library_V1.IntLib New Library=22022023_Library_Schematic.SchLib
+Added Component: Designator=U?(LCD Display 16x2)
+Added Member To Class: ClassName=DTYS_BLOOD_PRESURE_Sch Member=Component U? Display
+Added Room: Name=DTYS_BLOOD_PRESURE_Sch

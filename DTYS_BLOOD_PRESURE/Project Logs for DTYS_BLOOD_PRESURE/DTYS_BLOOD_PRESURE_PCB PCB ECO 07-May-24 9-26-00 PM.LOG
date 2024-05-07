@@ -1,0 +1,19 @@
+Added Component: Designator=LCD(LCD Display 16x2)
+Added Pin To Net: NetName=GND Pin=LCD-1
+Added Pin To Net: NetName=+5V Pin=LCD-2
+Added Pin To Net: NetName=NetLCD_3 Pin=LCD-3
+Added Pin To Net: NetName=RS Pin=LCD-4
+Added Pin To Net: NetName=GND Pin=LCD-5
+Added Pin To Net: NetName=EN Pin=LCD-6
+Added Pin To Net: NetName=GND Pin=LCD-7
+Added Pin To Net: NetName=GND Pin=LCD-8
+Added Pin To Net: NetName=GND Pin=LCD-9
+Added Pin To Net: NetName=GND Pin=LCD-10
+Added Pin To Net: NetName=D4 Pin=LCD-11
+Added Pin To Net: NetName=D5 Pin=LCD-12
+Added Pin To Net: NetName=D6 Pin=LCD-13
+Added Pin To Net: NetName=D7 Pin=LCD-14
+Added Pin To Net: NetName=+5V Pin=LCD-15
+Added Pin To Net: NetName=GND Pin=LCD-16
+Added Member To Class: ClassName=DTYS_BLOOD_PRESURE_Sch Member=Component LCD 1602
+Added Room: Name=DTYS_BLOOD_PRESURE_Sch

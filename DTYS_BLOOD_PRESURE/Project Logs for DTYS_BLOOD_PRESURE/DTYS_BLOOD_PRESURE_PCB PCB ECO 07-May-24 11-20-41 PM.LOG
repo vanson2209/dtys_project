@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=ADC0 Pin=U5-19
+Removed Pin From Net: NetName=ADC1 Pin=U5-22
+Removed Pin From Net: NetName=buzzer Pin=U5-26
+Removed Pin From Net: NetName=val Pin=U5-27
+Removed Pin From Net: NetName=bom Pin=U5-28
+Added Pin To Net: NetName=buzzer Pin=U5-8
+Added Pin To Net: NetName=val Pin=U5-9
+Added Pin To Net: NetName=bom Pin=U5-10
+Added Pin To Net: NetName=ADC1 Pin=U5-27
+Added Pin To Net: NetName=ADC0 Pin=U5-28
+Added Room: Name=DTYS_BLOOD_PRESURE_Sch

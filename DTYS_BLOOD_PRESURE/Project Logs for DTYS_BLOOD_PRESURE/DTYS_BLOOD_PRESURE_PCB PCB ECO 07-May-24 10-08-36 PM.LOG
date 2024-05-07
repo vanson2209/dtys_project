@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=NetC41_2 Pin=U5-2
+Added Pin To Net: NetName=RS Pin=U5-11
+Added Pin To Net: NetName=EN Pin=U5-12
+Added Pin To Net: NetName=D4 Pin=U5-13
+Added Pin To Net: NetName=D5 Pin=U5-14
+Added Pin To Net: NetName=D6 Pin=U5-15
+Added Pin To Net: NetName=D7 Pin=U5-16
+Added Pin To Net: NetName=NetC41_2 Pin=U5-23
+Added Pin To Net: NetName=D7 Pin=Upload Code-3
+Added Pin To Net: NetName=D6 Pin=Upload Code-4
+Change Net Name : Old Net Name=NetC41_2 New Net Name=SW3
+Added Room: Name=DTYS_BLOOD_PRESURE_Sch

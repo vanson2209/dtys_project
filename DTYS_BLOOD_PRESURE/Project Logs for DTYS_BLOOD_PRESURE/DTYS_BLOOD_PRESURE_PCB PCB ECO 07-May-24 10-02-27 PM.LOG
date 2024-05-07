@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=buzzer Pin=U5-9
+Removed Pin From Net: NetName=val Pin=U5-10
+Removed Pin From Net: NetName=bom Pin=U5-11
+Removed Pin From Net: NetName=RS Pin=U5-23
+Removed Pin From Net: NetName=EN Pin=U5-24
+Removed Pin From Net: NetName=D4 Pin=U5-25
+Removed Pin From Net: NetName=D5 Pin=U5-26
+Removed Pin From Net: NetName=D6 Pin=U5-27
+Removed Pin From Net: NetName=D7 Pin=U5-28
+Added Component: Designator=SW1(SW1-DIP)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(SW1-DIP)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW3(SW1-DIP)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SW1 Pin=R22-1
+Added Pin To Net: NetName=SW2 Pin=R23-1
+Added Pin To Net: NetName=SW3 Pin=R24-1
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=SW1 Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW2-1
+Added Pin To Net: NetName=SW2 Pin=SW2-2
+Added Pin To Net: NetName=GND Pin=SW3-1
+Added Pin To Net: NetName=SW3 Pin=SW3-2
+Added Pin To Net: NetName=NetLabel836 Pin=U5-11
+Added Net: Name=NetLabel836
+Added Member To Class: ClassName=DTYS_BLOOD_PRESURE_Sch Member=Component SW1 SW
+Added Member To Class: ClassName=DTYS_BLOOD_PRESURE_Sch Member=Component SW2 SW
+Added Member To Class: ClassName=DTYS_BLOOD_PRESURE_Sch Member=Component SW3 SW
+Added Room: Name=DTYS_BLOOD_PRESURE_Sch

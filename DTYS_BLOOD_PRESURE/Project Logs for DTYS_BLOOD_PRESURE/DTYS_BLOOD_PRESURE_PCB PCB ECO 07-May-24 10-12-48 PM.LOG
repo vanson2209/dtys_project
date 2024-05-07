@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=TX Pin=Debug-1
+Removed Pin From Net: NetName=RX Pin=Debug-2
+Added Pin To Net: NetName=RX Pin=Debug-1
+Added Pin To Net: NetName=TX Pin=Debug-2
+Added Room: Name=DTYS_BLOOD_PRESURE_Sch

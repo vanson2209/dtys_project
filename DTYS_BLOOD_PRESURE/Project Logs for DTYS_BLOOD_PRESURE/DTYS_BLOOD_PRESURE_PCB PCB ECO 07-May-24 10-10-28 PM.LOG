@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=buzzer Pin=U5-26
+Added Pin To Net: NetName=val Pin=U5-27
+Added Pin To Net: NetName=bom Pin=U5-28
+Added Room: Name=DTYS_BLOOD_PRESURE_Sch
